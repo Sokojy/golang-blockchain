@@ -1,9 +1,8 @@
 package main
 
 import (
-	"os"
-
 	"golang-blockchain/cli"
+	"os"
 )
 
 func main() {
